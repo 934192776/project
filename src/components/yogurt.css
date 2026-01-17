@@ -1,4 +1,4 @@
-body {
+      body {
         background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
         color:            #fff;
         width:            50%;
@@ -12,7 +12,6 @@ body {
         border: 1px solid #fff;
         padding: 20px;
         border-radius: 4px;
-
       }
 
       h2 {
@@ -53,3 +52,4 @@ body {
       a {
         color: #fff;
       }
+     
