@@ -38,7 +38,7 @@ function App() {
           This page was built by
           <a href="https://github.com/934192776" target="_blank">
             {" "}
-            Jing Hui{" "}
+            Jing{" "}
           </a>
         </p>
       </section>
@@ -88,7 +88,7 @@ function App() {
               This page was built by
               <a href="https://github.com/934192776" target="_blank">
                 {" "}
-                Jing Hui{" "}
+                Jing{" "}
               </a>
             </p>
           </div>
@@ -147,7 +147,7 @@ function App() {
               This page was built by
               <a href="https://github.com/934192776" target="_blank">
                 {" "}
-                Jing Hui{" "}
+                Jing{" "}
               </a>
             </p>
           </div>
