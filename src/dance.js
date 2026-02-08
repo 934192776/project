@@ -8,6 +8,7 @@ function Dance() {
     let dance = prompt("What dance do you like?");
     let emoji = prompt("What is your favorite emoji?");
     
+    alert(`Your email is ${email}`);
     alert(`Thank you ${name}! We'll touch by email, enjoy ${dance} ${emoji}`);
     
     if (dance === "Chinese dance") {

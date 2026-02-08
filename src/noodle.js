@@ -7,7 +7,10 @@ function Noodle() {
   let email = prompt("What is your email?");
   let noodle = prompt("What noodle do you like?");
   let emoji = prompt("What is your favorite emoji?");
+ 
+  alert(`Your email is ${email}`);
   alert("Thank you" + name + "! we'll touch by email, enjoy" + noodle + emoji);
+  
   if (noodle === "Chinese noodle") {
     alert("来一碗热腾腾的面条！");
   } else {
