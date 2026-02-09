@@ -3,10 +3,10 @@ import "./noodle.css";
 
 function Noodle() {
   const handleNoodleClick = () => {
-  let name = promp("What is your name?");
-  let email = prompt("What is your email?");
-  let noodle = prompt("What noodle do you like?");
-  let emoji = prompt("What is your favorite emoji?");
+  let name = window.prompt("What is your name?");
+  let email = window.prompt("What is your email?");
+  let noodle = window.prompt("What noodle do you like?");
+  let emoji = window.prompt("What is your favorite emoji?");
  
   alert(`Your email is ${email}`);
   alert("Thank you" + name + "! we'll touch by email, enjoy" + noodle + emoji);

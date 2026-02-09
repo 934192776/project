@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+.watch-button {
+  background-color: #cc6be7;
+  display: inline-block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.watch-button:hover {
+  background-color: #f7f5f7;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
