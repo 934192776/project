@@ -12,7 +12,6 @@ function App() {
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhomHm0BIlEn4TfBbRJYgzjy-HN8tHtiVJY_n9onpNKAdj3mtog"
           alt=""
         />
-
         <p>
           <strong>Greek yogurt</strong> is a yogurt that has been strained to
           remove most of its whey, resulting in a thicker consistency than
@@ -28,6 +27,7 @@ function App() {
             href="https://en.wikipedia.org/wiki/Strained_yogurt"
             target="_blank"
             rel="noopener noreferrer"
+            style="text-decoration:none"
           >
             Read on Wikipedia
           </a>
@@ -40,6 +40,7 @@ function App() {
             href="https://github.com/934192776"
             target="_blank"
             rel="noopener noreferrer"
+            style="text-decoration:none"
           >
             {" "}
             Jing{" "}
@@ -87,11 +88,12 @@ function App() {
               {" "}
               Read on Wikipedia{" "}
             </a>
-            <a class="watch-button"
-                href="https://www.google.com/search?q=%E5%8D%83%E6%89%8B%E8%A7%82%E9%9F%B3%E8%88%9E%E8%B9%88&sca_esv=708ca891a389fdf3&sca_upv=1&biw=1920&bih=953&tbm=vid&sxsrf=ADLYWIJp_4hIJ8W51hdm-9ou1gA6Xl0Uqg%3A1726117633916&ei=AXfiZoDPN9mi0-kPnpu1wQQ&oq=qian+shou+guanyin&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhFxaWFuIHNob3UgZ3VhbnlpbioCCAAyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIuihQAFiUGXAAeACQAQCYAYsCoAHBFqoBBjAuMTYuMbgBAcgBAPgBAZgCEaACrBfCAgUQABiABMICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgcQABiABBgKmAMAkgcGMC4xNi4xoAftMQ&sclient=gws-wiz-video#fpstate=ive&vld=cid:400d0d87,vid:of8ZOfAKzIc,st:0"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+            <a
+              class="watch-button"
+              href="https://www.google.com/search?q=%E5%8D%83%E6%89%8B%E8%A7%82%E9%9F%B3%E8%88%9E%E8%B9%88&sca_esv=708ca891a389fdf3&sca_upv=1&biw=1920&bih=953&tbm=vid&sxsrf=ADLYWIJp_4hIJ8W51hdm-9ou1gA6Xl0Uqg%3A1726117633916&ei=AXfiZoDPN9mi0-kPnpu1wQQ&oq=qian+shou+guanyin&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhFxaWFuIHNob3UgZ3VhbnlpbioCCAAyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIuihQAFiUGXAAeACQAQCYAYsCoAHBFqoBBjAuMTYuMbgBAcgBAPgBAZgCEaACrBfCAgUQABiABMICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgcQABiABBgKmAMAkgcGMC4xNi4xoAftMQ&sclient=gws-wiz-video#fpstate=ive&vld=cid:400d0d87,vid:of8ZOfAKzIc,st:0"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               👀 Watch More{" "}
             </a>
             <p class="footer">
