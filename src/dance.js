@@ -22,7 +22,7 @@ function Dance() {
     <div className="dance-section">
       <h3> Dance</h3>
       <button className="watch-button" onClick={handleWatch}>
-        点击选择舞蹈
+        choose one
       </button>
     </div>
   );
