@@ -14,11 +14,12 @@ function Yogurt() {
   };
 
   return (
-    <div>
+     <div className="yogurt-section">
+      <h3> Yogurt</h3>
       <button className="btn" onClick={handleClick}>
         点击试试
       </button>
-    </div>
+     </div>
   );
 }
 
