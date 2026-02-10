@@ -21,7 +21,7 @@ function Noodle() {
   return (
     <div className="noodle-section">
       <h3> Noodle</h3>
-      <button onClick={handleNoodleClick}>点击吃面条</button>
+      <button onClick={handleNoodleClick}>Click to have noodles</button>
     </div>
   );
 }

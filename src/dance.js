@@ -12,9 +12,9 @@ function Dance() {
     alert(`Thank you ${name}! We'll touch by email, enjoy ${dance} ${emoji}`);
     
     if (dance === "Chinese dance") {
-      alert("你好");
+      alert("Ni Hao");
     } else {
-      alert("🕺");
+      alert("💃🕺");
     }
   };
 
@@ -22,7 +22,7 @@ function Dance() {
     <div className="dance-section">
       <h3> Dance</h3>
       <button className="watch-button" onClick={handleWatch}>
-        choose one
+        Choose one
       </button>
     </div>
   );

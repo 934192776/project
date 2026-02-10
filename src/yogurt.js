@@ -17,7 +17,7 @@ function Yogurt() {
      <div className="yogurt-section">
       <h3> Yogurt</h3>
       <button className="btn" onClick={handleClick}>
-        点击试试
+        Have a try
       </button>
      </div>
   );
