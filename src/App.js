@@ -26,8 +26,7 @@ function App() {
           <a
             href="https://en.wikipedia.org/wiki/Strained_yogurt"
             target="_blank"
-            rel="noopener noreferrer"
-            style="text-decoration:none" >
+            rel="noopener noreferrer">
             Read on Wikipedia
           </a>
         </small>
@@ -38,8 +37,7 @@ function App() {
           <a
             href="https://github.com/934192776"
             target="_blank"
-            rel="noopener noreferrer"
-            style="text-decoration:none" >
+            rel="noopener noreferrer" >
             {" "}
             Jing{" "}
           </a>
@@ -79,8 +77,7 @@ function App() {
                 href="https://en.wikipedia.org/wiki/Dance_in_China"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="read"
-                style="text-decoration:none" >
+                class="read" >
                 {" "}
                 Read on Wikipedia{" "}
               </a>
@@ -92,8 +89,7 @@ function App() {
               class="watch-button"
               href="https://www.google.com/search?q=%E5%8D%83%E6%89%8B%E8%A7%82%E9%9F%B3%E8%88%9E%E8%B9%88&sca_esv=708ca891a389fdf3&sca_upv=1&biw=1920&bih=953&tbm=vid&sxsrf=ADLYWIJp_4hIJ8W51hdm-9ou1gA6Xl0Uqg%3A1726117633916&ei=AXfiZoDPN9mi0-kPnpu1wQQ&oq=qian+shou+guanyin&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhFxaWFuIHNob3UgZ3VhbnlpbioCCAAyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIuihQAFiUGXAAeACQAQCYAYsCoAHBFqoBBjAuMTYuMbgBAcgBAPgBAZgCEaACrBfCAgUQABiABMICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgcQABiABBgKmAMAkgcGMC4xNi4xoAftMQ&sclient=gws-wiz-video#fpstate=ive&vld=cid:400d0d87,vid:of8ZOfAKzIc,st:0"
               target="_blank"
-              rel="noopener noreferrer"
-              style="text-decoration:none" >
+              rel="noopener noreferrer" >
               👀 Watch More{" "}
             </a>
 
@@ -105,8 +101,7 @@ function App() {
               <a
                 href="https://github.com/934192776"
                 target="_blank"
-                rel="noopener noreferrer"
-                style="text-decoration:none" >
+                rel="noopener noreferrer" >
                 {" "}
                 Jing{" "}
               </a>
@@ -146,8 +141,7 @@ function App() {
               href="https://en.wikipedia.org/wiki/Lanzhou_beef_noodles"
               target="_blank"
               rel="noopener noreferrer"
-              class="read"
-              style="text-decoration:none">
+              class="read">
               {" "}
               Read on Wikipedia{" "}
             </a>
@@ -155,8 +149,7 @@ function App() {
               <a
                 href="https://www.youtube.com/watch?v=VNqZ0BAQcX4"
                 target="_blank"
-                rel="noopener noreferrer"
-                style="text-decoration:none">
+                rel="noopener noreferrer">
                 {" "}
               </a>{" "}
               👀 Watch More
@@ -167,8 +160,7 @@ function App() {
               <a
                 href="https://github.com/934192776"
                 target="_blank"
-                rel="noopener noreferrer"
-                style="text-decoration:none">
+                rel="noopener noreferrer">
                 {" "}
                 Jing{" "}
               </a>
