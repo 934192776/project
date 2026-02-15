@@ -10,8 +10,7 @@ function App() {
         <h2>Expecially Greek Yogurts</h2>
         <img
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhomHm0BIlEn4TfBbRJYgzjy-HN8tHtiVJY_n9onpNKAdj3mtog"
-          alt=""
-        />
+          alt="" />
         <p>
           <strong>Greek yogurt</strong> is a yogurt that has been strained to
           remove most of its whey, resulting in a thicker consistency than
@@ -32,24 +31,17 @@ function App() {
         </small>
         <button class="btn">Try Greek Yogurt</button>
         <p class="footer">
-          {" "}
-          This page was built by
-          <a
-            href="https://github.com/934192776"
-            target="_blank"
-            rel="noopener noreferrer" >
-            {" "}
-            Jing{" "}
+          {" "} This page was built by
+          <a href="https://github.com/934192776"
+            target="_blank" rel="noopener noreferrer" >
+            {" "} Jing{" "}
           </a>
         </p>
       </section>
 
       <section style={{ marginBottom: "60px" }}>
         <h2
-          style={{
-            color: "#34495e",
-            borderBottom: "2px solid #3498db",
-            paddingBottom: "8px", }} >
+          style={{ color: "#34495e", borderBottom: "2px solid #3498db", paddingBottom: "8px", }} >
           <div class="container">
             <h1> Chinese Dance </h1>
             <h2> Thousand Hand Guan Yin </h2>
@@ -59,11 +51,7 @@ function App() {
               alt="Chinese dance"
               width="350"/>
             <hr />
-            <p>
-              {" "}
-              The{" "}
-              <strong>
-                Chinese dance<em> Qianshou Guanyin</em>
+            <p> {" "} The{" "} <strong> Chinese dance<em> Qianshou Guanyin</em>
               </strong>
               , known as the Bodhisattva with a 1,000 Hands, is a dance in which
               dancers stand behind each other so only one person is visible to
@@ -73,37 +61,26 @@ function App() {
               dance synchronization.
             </p>
             <small>
-              <a
-                href="https://en.wikipedia.org/wiki/Dance_in_China"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="read" >
-                {" "}
-                Read on Wikipedia{" "}
+              <a href="https://en.wikipedia.org/wiki/Dance_in_China"
+                target="_blank" rel="noopener noreferrer" class="read" >
+                {" "} Read on Wikipedia{" "}
               </a>
             </small>
 
           <button class="btn">
-
             <a
               class="watch-button"
               href="https://www.google.com/search?q=%E5%8D%83%E6%89%8B%E8%A7%82%E9%9F%B3%E8%88%9E%E8%B9%88&sca_esv=708ca891a389fdf3&sca_upv=1&biw=1920&bih=953&tbm=vid&sxsrf=ADLYWIJp_4hIJ8W51hdm-9ou1gA6Xl0Uqg%3A1726117633916&ei=AXfiZoDPN9mi0-kPnpu1wQQ&oq=qian+shou+guanyin&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhFxaWFuIHNob3UgZ3VhbnlpbioCCAAyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIuihQAFiUGXAAeACQAQCYAYsCoAHBFqoBBjAuMTYuMbgBAcgBAPgBAZgCEaACrBfCAgUQABiABMICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgcQABiABBgKmAMAkgcGMC4xNi4xoAftMQ&sclient=gws-wiz-video#fpstate=ive&vld=cid:400d0d87,vid:of8ZOfAKzIc,st:0"
-              target="_blank"
-              rel="noopener noreferrer" >
+              target="_blank" rel="noopener noreferrer" >
               👀 Watch More{" "}
             </a>
 
           </button>
-
             <p class="footer">
-              {" "}
-              This page was built by
-              <a
-                href="https://github.com/934192776"
-                target="_blank"
-                rel="noopener noreferrer" >
-                {" "}
-                Jing{" "}
+              {" "} This page was built by
+              <a href="https://github.com/934192776"
+                target="_blank" rel="noopener noreferrer" >
+                {" "} Jing{" "}
               </a>
             </p>
           </div>
