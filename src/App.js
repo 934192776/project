@@ -116,31 +116,20 @@ function App() {
             </p>
             <a
               href="https://en.wikipedia.org/wiki/Lanzhou_beef_noodles"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="read">
-              {" "}
-              Read on Wikipedia{" "}
+              target="_blank" rel="noopener noreferrer"
+              class="read"> {" "} Read on Wikipedia{" "}
             </a>
             <button class="watch-button">
               <a
                 href="https://www.youtube.com/watch?v=VNqZ0BAQcX4"
-                target="_blank"
-                rel="noopener noreferrer">
-                {" "}
-              </a>{" "}
-              👀 Watch More
+                target="_blank" rel="noopener noreferrer"> {" "}
+              </a>{" "} 👀 Watch More
             </button>
             <p class="footer">
               {" "}
               This page was built by
-              <a
-                href="https://github.com/934192776"
-                target="_blank"
-                rel="noopener noreferrer">
-                {" "}
-                Jing{" "}
-              </a>
+              <a href="https://github.com/934192776" target="_blank" rel="noopener noreferrer">
+                {" "}Jing{" "} </a>
             </p>
           </div>
          </h2>
